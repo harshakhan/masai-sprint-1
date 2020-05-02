@@ -29,6 +29,7 @@ h1{
     padding:0;
     color:white;
     font-size: 10px;
+    border:1px solid transparent;
 }
 .button {
     background-color:#FFA000;
@@ -51,6 +52,9 @@ h1{
 td{
     color: white;
     margin-left:10px;
+    border: 1px solid transparent;
+}
+
     /* .box3{
         background: black;
         
